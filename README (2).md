@@ -205,7 +205,7 @@ portfolio-data-analyst/
 Data Analyst | Especialista en Sistemas de Gestión (ISO 9001/14001/45001)
 
 **Experiencia:**
-- 4 años gestionando ISO 14001 en sector residuos
+- 2 años gestionando ISO 14001 en sector residuos
 - Conocimiento práctico de operaciones de reciclaje
 - Análisis de datos aplicado a sostenibilidad
 
